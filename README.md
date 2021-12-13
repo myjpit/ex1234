@@ -1,2 +1,2 @@
-# ex1234
-ex1234 Test
+# IT3 : FoodSearch TeamProject
+팀프로젝트(임시)
